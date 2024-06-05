@@ -11,7 +11,7 @@ go get "github.com/gliderlabs/ssh" # simplifies the SSH server creation
 go get "golang.org/x/term"          # allows manipulation of the user terminal 
 ```
 
-##Usage
+## Usage
 To start the server, run the following command:
 ```bash
 go run main.go
